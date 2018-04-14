@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteMom", "RemoteMom\RemoteMom.csproj", "{A718156E-AF89-4069-AA13-C9174A74D06D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A718156E-AF89-4069-AA13-C9174A74D06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A718156E-AF89-4069-AA13-C9174A74D06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A718156E-AF89-4069-AA13-C9174A74D06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A718156E-AF89-4069-AA13-C9174A74D06D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3861EF0-1873-41CE-9F42-7811F392A081}
+	EndGlobalSection
+EndGlobal
